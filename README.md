@@ -43,8 +43,8 @@ Worked on MongoDB aggregation pipelines, indexing, and query optimization for re
 ---
 
 ### 📊 GitHub Activity
-![Roshan's Stats](https://github-readme-stats.vercel.app/api?username=roshanbist&show_icons=true&count_private=true&theme=dark)
-[![Roshan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=roshanbist&theme=dark)](https://git.io/streak-stats)
+![Roshan's Stats](https://github-readme-stats.vercel.app/api?username=Roshan-Bist&show_icons=true&count_private=true&theme=dark)
+[![Roshan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Roshan-Bist&theme=dark)](https://git.io/streak-stats)
 
 ---
 
