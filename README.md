@@ -1,55 +1,54 @@
-# Hi, I'm Roshan Bist 👋
+# Hi! I'm Roshan Bist 👋
 
-Backend Developer | Node.js | MongoDB | Payment Systems | SaaS Architecture
-
-I am a backend developer with **3 years of experience** building scalable REST APIs and real-world applications. I specialize in **authentication systems, payment integrations, subscription logic, webhooks, and cloud-based solutions**.
-
----
-
-## 🚀 Tech Stack
-
-- **Backend:** Node.js, Express.js, TypeScript  
-- **Database:** MongoDB, Aggregation Pipelines, Indexing  
-- **Authentication & Security:** JWT, Role-based Access Control  
-- **File Handling & Cloud:** AWS S3, Multer  
-- **DevOps & Tools:** Docker (learning), Git, Postman  
-- **Payment Gateways:** Stripe, Khalti, Fonepay, Authorize.Net  
+### 🚀 Backend Developer | Node.js Expert | Payment & SaaS Systems
+I am a backend developer based in **Norway**, with **3 years of experience** building scalable REST APIs, subscription systems, payment integrations, and cloud-based solutions. I specialize in secure, maintainable, and real-world backend systems.
 
 ---
 
-## 💼 What I Build
+### 🛠️ Professional Tech Stack
 
-- REST API Development for real-world applications  
-- Recurring Billing Systems (ARB) and SaaS subscription management  
-- Payment Webhook Handling & Secure Transactions  
-- Role-Based Access Control for complex systems  
-- File Upload Systems and Cloud Storage Integration  
-- Database Optimization & Aggregation Pipelines  
+#### 💻 Backend Development
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-00AABB?style=for-the-badge) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
----
+#### 📊 Databases & Data
+![MongoDB](https://img.shields.io/badge/mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![Aggregation](https://img.shields.io/badge/Aggregation-Pipelines-FFAA00?style=for-the-badge)
 
-## 📌 Featured Projects
+#### 🌐 Cloud, File Handling & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white) ![Multer](https://img.shields.io/badge/Multer-FF6600?style=for-the-badge) ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-- 🍔 **Food Delivery Backend API** – Full backend with authentication, order management, and payment integration  
-- 🎉 **Event Management System** – Manage events, bookings, and notifications  
-- ✅ **Task Management System** – Multi-user task assignment and tracking system  
-- 💳 **Subscription & Payment Integration System** – Handles recurring payments, upgrades/downgrades, and webhooks  
+#### 💳 Payment & Subscription Systems
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white) ![Authorize.Net](https://img.shields.io/badge/Authorize.Net-003366?style=for-the-badge&logo=authorize.net&logoColor=white) ![Khalti](https://img.shields.io/badge/Khalti-FF5733?style=for-the-badge) ![Fonepay](https://img.shields.io/badge/Fonepay-0099FF?style=for-the-badge)
 
 ---
 
-## 🧠 Currently Learning
+### 💼 Professional Experience
 
-- Microservices Architecture  
-- Event-driven Architecture (RabbitMQ / Kafka)  
-- Advanced System Design & Scalable Backend Patterns  
+* 🚀 **Backend Developer (Node.js / Express.js)**  
+Built secure REST APIs, subscription systems, payment integrations, and handled webhooks, file uploads, and AWS S3 storage.  
 
----
+* 💳 **Payment Integration Expert**  
+Implemented ARB subscriptions, recurring payments, and webhook logic with multiple gateways (Stripe, Authorize.Net, Fonepay, Khalti).  
 
-## 📫 Connect With Me
-
-- LinkedIn: (add link)  
-- Email: (add email)  
+* 🗄️ **Database & Optimization**  
+Worked on MongoDB aggregation pipelines, indexing, and query optimization for real-world applications.  
 
 ---
 
-⭐ Passionate about building **robust, scalable, and maintainable backend systems**.
+### 🧠 Currently Learning / Exploring
+* Microservices Architecture  
+* Event-Driven Systems (RabbitMQ / Kafka)  
+* System Design & Scalable Backend Patterns  
+* Advanced Cloud Deployment & CI/CD  
+
+---
+
+### 📊 GitHub Activity
+![Roshan's Stats](https://github-readme-stats.vercel.app/api?username=roshanbist&show_icons=true&count_private=true&theme=dark)
+[![Roshan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=roshanbist&theme=dark)](https://git.io/streak-stats)
+
+---
+
+### 🔗 Let's Connect
+* 🌐 **Portfolio / Contact:** (Add your portfolio link or website)  
+* 📍 **Location:** Norway  
+* 💼 **Open For:** Backend Developer Roles / Freelance Projects
