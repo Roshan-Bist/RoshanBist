@@ -17,7 +17,7 @@ I am a backend developer based in **Norway**, with **3 years of experience** bui
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white) ![Multer](https://img.shields.io/badge/Multer-FF6600?style=for-the-badge) ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 #### 💳 Payment & Subscription Systems
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white) ![Authorize.Net](https://img.shields.io/badge/Authorize.Net-003366?style=for-the-badge&logo=authorize.net&logoColor=white) ![Khalti](https://img.shields.io/badge/Khalti-FF5733?style=for-the-badge) ![Fonepay](https://img.shields.io/badge/Fonepay-0099FF?style=for-the-badge)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white) ![Authorize.Net](https://img.shields.io/badge/Authorize.Net-003366?style=for-the-badge&logo=authorize.net&logoColor=white)
 
 ---
 
