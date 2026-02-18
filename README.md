@@ -27,7 +27,7 @@ I am a backend developer based in **Norway**, with **3 years of experience** bui
 Built secure REST APIs, subscription systems, payment integrations, and handled webhooks, file uploads, and AWS S3 storage.  
 
 * 💳 **Payment Integration Expert**  
-Implemented ARB subscriptions, recurring payments, and webhook logic with multiple gateways (Stripe, Authorize.Net, Fonepay, Khalti).  
+Implemented ARB subscriptions, recurring payments, and webhook logic with multiple gateways (Stripe, Authorize.Net).  
 
 * 🗄️ **Database & Optimization**  
 Worked on MongoDB aggregation pipelines, indexing, and query optimization for real-world applications.  
